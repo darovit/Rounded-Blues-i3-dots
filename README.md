@@ -1,5 +1,5 @@
 # Rounded-Blues-i3-dots
-###(Warning, rofi is ugly/an absolute mess in these dots, still working on that lol)
+### (Warning, rofi is ugly/an absolute mess in these dots, still working on that lol)
 
 ## Screenshots
 ![SCREENSHOT 1](https://github.com/darovit/Rounded-Blues-i3-dots/blob/master/Screenshots/2019-09-30-191827_3840x2160_scrot.png?raw=true)
